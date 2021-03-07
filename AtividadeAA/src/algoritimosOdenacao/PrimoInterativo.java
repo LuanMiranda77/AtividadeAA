@@ -1,4 +1,4 @@
-package Teste;
+package algoritimosOdenacao;
 
 public class PrimoInterativo {
 

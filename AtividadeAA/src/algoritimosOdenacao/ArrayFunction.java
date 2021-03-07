@@ -1,4 +1,4 @@
-package Teste;
+package algoritimosOdenacao;
 
 import java.util.ArrayList;
 import java.util.Collections;
